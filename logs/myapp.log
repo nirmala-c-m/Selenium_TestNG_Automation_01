@@ -1,0 +1,523 @@
+2024-06-12 00:07:20.142 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to: https://demo.guru99.com/test/newtours/
+2024-06-12 00:15:18.574 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 00:15:24.511 [main] INFO  com.guru99.newtours.TestBase - Login test executed
+2024-06-12 00:15:28.002 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-12 00:15:31.424 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 8787754511, nirmwqwqqw@gmail.com
+2024-06-12 00:15:33.145 [main] INFO  com.guru99.newtours.Register - Entered mailing info: Address, city, state, 768098, INDIA
+2024-06-12 00:15:34.046 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-12 00:15:36.078 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-12 00:15:36.079 [main] INFO  com.guru99.newtours.TestBase - Registration test executed
+2024-06-12 00:15:36.435 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 12:49:18.348 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 12:49:18.910 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:25:15.132 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:25:15.684 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:30:14.427 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:30:14.957 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:32:19.950 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:32:20.488 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:35:02.601 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:35:02.977 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:38:31.355 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:38:31.570 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:39:32.465 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:39:32.915 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:42:26.232 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:42:26.683 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:43:30.798 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:43:35.716 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 13:44:32.978 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 13:44:37.626 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 18:25:30.431 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 18:25:36.036 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-12 18:25:36.777 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 18:57:30.536 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 18:57:40.196 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-12 18:57:42.663 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-12 18:57:44.656 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1.23456789E9, nirmala11@gmail.com
+2024-06-12 18:57:46.321 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313.0, INDIA
+2024-06-12 18:57:47.041 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-12 18:57:51.053 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-12 18:57:51.054 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1.23456789E9, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313.0, nirmala, Test1234, Test1234
+2024-06-12 18:57:51.411 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-12 19:06:35.347 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-12 19:06:44.189 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-12 19:06:46.514 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-12 19:06:49.551 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-12 19:06:51.039 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-12 19:06:51.736 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-12 19:06:54.021 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-12 19:06:54.022 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-12 19:06:54.341 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:10:53.657 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:10:59.776 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:11:01.395 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:11:01.570 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:11:08.469 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:11:09.476 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:11:09.930 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:11:10.326 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:11:10.582 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:11:12.071 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:11:12.072 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:11:12.182 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:11:12.183 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:17:16.876 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:17:22.606 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:17:24.009 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:17:29.115 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:17:30.324 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:17:30.687 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:17:31.008 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:17:31.190 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:17:33.091 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:17:33.091 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:17:33.197 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:17:33.200 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:18:20.228 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:18:24.869 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:18:26.432 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:18:26.584 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:18:30.870 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:18:31.811 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:18:32.304 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:18:32.931 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:18:33.273 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:18:34.624 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:18:34.625 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:18:34.754 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:18:34.755 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:19:58.386 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:20:04.017 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:20:06.109 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:20:06.219 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:20:10.311 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:20:11.933 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:20:12.198 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:20:12.500 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:20:12.680 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:20:13.884 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:20:13.884 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:20:14.001 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:20:14.004 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:21:03.137 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:21:19.244 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:21:41.476 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:21:41.591 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:21:47.713 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:22:17.997 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:22:17.999 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:28:16.280 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:28:22.870 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:28:26.239 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:28:26.495 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:28:33.355 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:29:03.552 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:29:03.554 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:35:03.027 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:35:09.710 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:35:12.349 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:35:12.509 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:35:19.313 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:35:49.750 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:35:49.754 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:38:32.856 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:38:41.340 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:38:43.314 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:38:43.427 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:49:48.017 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 18:50:00.860 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:50:10.534 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:50:10.549 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 18:50:13.323 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:50:13.342 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 18:50:13.513 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:50:20.036 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:50:20.041 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 18:50:20.927 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:50:21.622 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:50:22.129 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:50:22.528 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:50:24.841 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:50:24.841 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:50:24.845 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 18:50:25.028 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:50:25.031 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:50:25.082 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 18:56:55.992 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 18:57:08.264 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:57:15.432 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:57:15.445 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 18:57:17.968 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 18:57:17.978 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 18:57:18.101 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:57:25.164 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 18:57:25.169 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 18:57:27.491 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 18:57:28.117 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 18:57:29.037 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 18:57:29.471 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 18:57:31.778 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 18:57:31.778 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 18:57:31.781 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 18:57:31.935 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:57:31.938 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 18:57:31.976 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:02:40.743 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:02:46.977 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:02:53.763 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:02:53.773 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:02:55.324 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:02:55.337 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:02:55.461 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:03:04.124 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:03:04.126 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:03:05.002 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:03:05.348 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:03:05.724 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:03:05.884 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:03:07.195 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:03:07.196 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:03:07.198 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:03:07.302 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:03:07.304 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:03:07.347 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:04:22.900 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:04:29.105 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:04:30.211 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:04:30.328 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:04:55.771 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:05:02.056 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:05:05.072 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:05:10.856 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:05:12.967 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:05:13.225 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:05:13.655 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:05:13.973 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:05:15.259 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:05:15.260 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:06:46.297 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:06:52.481 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:06:54.003 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:06:59.729 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:07:01.524 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:07:01.780 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:07:02.071 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:07:02.250 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:07:03.575 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:07:03.575 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:10:03.194 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:10:04.629 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:10:04.757 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:10:10.947 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:10:11.688 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:10:11.936 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:10:12.253 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:10:12.421 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:10:14.193 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:10:14.194 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:10:14.349 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:13:43.416 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:13:45.584 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:13:46.476 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:13:46.849 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:13:47.175 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:13:47.338 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:13:48.421 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:13:48.421 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:13:48.596 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:15:41.789 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:15:41.803 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:15:48.686 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:15:48.700 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:15:50.748 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:15:50.758 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:15:50.932 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:15:57.961 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:15:57.964 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:15:59.004 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:15:59.632 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:16:00.338 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:16:00.727 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:16:01.976 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:16:01.977 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:16:01.980 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:16:02.162 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:16:02.188 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:16:02.190 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:16:40.769 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:16:47.838 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:16:50.436 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:17:19.086 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:17:54.076 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:17:56.051 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:17:56.969 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:17:57.387 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:17:57.787 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:17:58.028 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:17:59.143 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:17:59.144 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:17:59.290 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:18:45.413 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:18:45.422 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:18:50.727 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:18:50.735 [main] WARN  com.guru99.newtours.TestListener - Test skipped: login
+2024-06-13 19:18:50.819 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:18:50.822 [main] WARN  com.guru99.newtours.TestListener - Test skipped: register
+2024-06-13 19:18:50.886 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:24:02.999 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:24:03.005 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:24:03.560 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:24:06.674 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:24:06.680 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:24:06.728 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:24:08.216 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:24:08.589 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:24:08.940 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:24:09.115 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:24:10.260 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:24:10.261 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:24:10.262 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:24:10.280 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:24:10.387 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:24:32.359 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:24:32.369 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:24:32.919 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:24:35.529 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:24:35.533 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:24:35.592 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:24:36.336 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:24:36.715 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:24:37.071 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:24:37.234 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:24:38.408 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:24:38.409 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:24:38.413 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:24:38.445 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:24:38.565 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:29:31.512 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:29:31.520 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:29:32.105 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:29:33.757 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:29:33.761 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:29:33.806 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:29:34.655 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:29:35.053 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:29:35.416 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:29:35.599 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:29:37.337 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:29:37.337 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:29:37.338 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:29:37.360 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:29:37.475 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:33:48.133 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:33:48.138 [main] INFO  com.guru99.newtours.TestListener - Test context started: Login and Registration Tests
+2024-06-13 19:33:48.672 [main] INFO  com.guru99.newtours.TestListener - Test started: login
+2024-06-13 19:33:50.154 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:33:50.160 [main] INFO  com.guru99.newtours.TestListener - Test passed: login
+2024-06-13 19:33:50.232 [main] INFO  com.guru99.newtours.TestListener - Test started: register
+2024-06-13 19:33:51.034 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:33:51.519 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:33:51.870 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:33:52.052 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:33:54.372 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:33:54.373 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:33:54.378 [main] INFO  com.guru99.newtours.TestListener - Test passed: register
+2024-06-13 19:33:54.405 [main] INFO  com.guru99.newtours.TestListener - Test context finished: Login and Registration Tests
+2024-06-13 19:33:54.513 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 19:35:06.339 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 19:35:06.348 [main] INFO  com.guru99.newtours.TestListener - 5Test context started: Login and Registration Tests
+2024-06-13 19:35:06.929 [main] INFO  com.guru99.newtours.TestListener - 1Test started: login
+2024-06-13 19:35:09.980 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 19:35:09.993 [main] INFO  com.guru99.newtours.TestListener - T2est passed: login
+2024-06-13 19:35:10.047 [main] INFO  com.guru99.newtours.TestListener - 1Test started: register
+2024-06-13 19:35:12.027 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 19:35:12.423 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 19:35:12.751 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 19:35:12.905 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 19:35:14.721 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 19:35:14.721 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 19:35:14.725 [main] INFO  com.guru99.newtours.TestListener - T2est passed: register
+2024-06-13 19:35:14.751 [main] INFO  com.guru99.newtours.TestListener - 6Test context finished: Login and Registration Tests
+2024-06-13 19:35:14.858 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 22:10:56.369 [main] INFO  com.guru99.newtours.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 22:10:56.379 [main] INFO  com.guru99.newtours.TestListener - 5Test context started: Login and Registration Tests
+2024-06-13 22:10:56.935 [main] INFO  com.guru99.newtours.TestListener - 1Test started: login
+2024-06-13 22:10:58.281 [main] INFO  com.guru99.newtours.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 22:10:58.285 [main] INFO  com.guru99.newtours.TestListener - T2est passed: login
+2024-06-13 22:10:58.329 [main] INFO  com.guru99.newtours.TestListener - 1Test started: register
+2024-06-13 22:10:59.175 [main] INFO  com.guru99.newtours.Register - Clicked on REGISTER link
+2024-06-13 22:10:59.602 [main] INFO  com.guru99.newtours.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 22:10:59.923 [main] INFO  com.guru99.newtours.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 22:11:00.078 [main] INFO  com.guru99.newtours.Register - Entered User info
+2024-06-13 22:11:01.110 [main] INFO  com.guru99.newtours.Register - Registration Submitted
+2024-06-13 22:11:01.110 [main] INFO  com.guru99.newtours.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 22:11:01.112 [main] INFO  com.guru99.newtours.TestListener - T2est passed: register
+2024-06-13 22:11:01.135 [main] INFO  com.guru99.newtours.TestListener - 6Test context finished: Login and Registration Tests
+2024-06-13 22:11:01.257 [main] INFO  com.guru99.newtours.TestBase - Browser closed
+2024-06-13 22:25:41.576 [main] INFO  com.guru99.newtours.tests.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 22:25:41.585 [main] INFO  c.g.newtours.tests.TestListener - 5Test context started: Login and Registration Tests
+2024-06-13 22:25:42.194 [main] INFO  c.g.newtours.tests.TestListener - 1Test started: login
+2024-06-13 22:25:43.648 [main] INFO  com.guru99.newtours.tests.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 22:25:43.661 [main] INFO  c.g.newtours.tests.TestListener - T2est passed: login
+2024-06-13 22:25:43.736 [main] INFO  c.g.newtours.tests.TestListener - 1Test started: register
+2024-06-13 22:25:44.522 [main] INFO  com.guru99.newtours.tests.Register - Clicked on REGISTER link
+2024-06-13 22:25:44.891 [main] INFO  com.guru99.newtours.tests.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 22:25:45.224 [main] INFO  com.guru99.newtours.tests.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 22:25:45.379 [main] INFO  com.guru99.newtours.tests.Register - Entered User info
+2024-06-13 22:25:46.421 [main] INFO  com.guru99.newtours.tests.Register - Registration Submitted
+2024-06-13 22:25:46.422 [main] INFO  com.guru99.newtours.tests.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 22:25:46.426 [main] INFO  c.g.newtours.tests.TestListener - T2est passed: register
+2024-06-13 22:25:46.456 [main] INFO  c.g.newtours.tests.TestListener - 6Test context finished: Login and Registration Tests
+2024-06-13 22:25:46.574 [main] INFO  com.guru99.newtours.tests.TestBase - Browser closed
+2024-06-13 22:28:46.295 [main] INFO  com.guru99.newtours.tests.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 22:28:46.302 [main] INFO  c.g.newtours.utility.TestListener - 5Test context started: Login and Registration Tests
+2024-06-13 22:28:46.914 [main] INFO  c.g.newtours.utility.TestListener - 1Test started: login
+2024-06-13 22:28:48.394 [main] INFO  com.guru99.newtours.tests.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 22:28:48.401 [main] INFO  c.g.newtours.utility.TestListener - T2est passed: login
+2024-06-13 22:28:48.463 [main] INFO  c.g.newtours.utility.TestListener - 1Test started: register
+2024-06-13 22:28:49.308 [main] INFO  com.guru99.newtours.tests.Register - Clicked on REGISTER link
+2024-06-13 22:28:49.710 [main] INFO  com.guru99.newtours.tests.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 22:28:50.025 [main] INFO  com.guru99.newtours.tests.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 22:28:50.179 [main] INFO  com.guru99.newtours.tests.Register - Entered User info
+2024-06-13 22:28:51.222 [main] INFO  com.guru99.newtours.tests.Register - Registration Submitted
+2024-06-13 22:28:51.223 [main] INFO  com.guru99.newtours.tests.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 22:28:51.224 [main] INFO  c.g.newtours.utility.TestListener - T2est passed: register
+2024-06-13 22:28:51.246 [main] INFO  c.g.newtours.utility.TestListener - 6Test context finished: Login and Registration Tests
+2024-06-13 22:28:51.352 [main] INFO  com.guru99.newtours.tests.TestBase - Browser closed
+2024-06-13 22:34:54.718 [main] INFO  com.guru99.newtours.tests.TestBase - Browser opened and navigated to demo.guru99.com
+2024-06-13 22:34:54.726 [main] INFO  c.g.newtours.utility.TestListener - ------Test context started------- for Login and Registration Tests
+2024-06-13 22:34:55.299 [main] INFO  c.g.newtours.utility.TestListener - --------Test started----------for login
+2024-06-13 22:34:56.753 [main] INFO  com.guru99.newtours.tests.TestBase - Login test executed with username: admin and password: admin
+2024-06-13 22:34:56.758 [main] INFO  c.g.newtours.utility.TestListener - -------Test passed---------for login
+2024-06-13 22:34:56.813 [main] INFO  c.g.newtours.utility.TestListener - --------Test started----------for register
+2024-06-13 22:34:57.666 [main] INFO  com.guru99.newtours.tests.Register - Clicked on REGISTER link
+2024-06-13 22:34:58.105 [main] INFO  com.guru99.newtours.tests.Register - Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com
+2024-06-13 22:34:58.484 [main] INFO  com.guru99.newtours.tests.Register - Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA
+2024-06-13 22:34:58.641 [main] INFO  com.guru99.newtours.tests.Register - Entered User info
+2024-06-13 22:34:59.780 [main] INFO  com.guru99.newtours.tests.Register - Registration Submitted
+2024-06-13 22:34:59.781 [main] INFO  com.guru99.newtours.tests.TestBase - Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234
+2024-06-13 22:34:59.785 [main] INFO  c.g.newtours.utility.TestListener - -------Test passed---------for register
+2024-06-13 22:34:59.812 [main] INFO  c.g.newtours.utility.TestListener - ---------Test context finished-----------for Login and Registration Tests
+2024-06-13 22:34:59.936 [main] INFO  com.guru99.newtours.tests.TestBase - Browser closed
+2024-06-13 22:38:25.242 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser opened and navigated to demo.guru99.com]
+2024-06-13 22:38:25.252 [main] INFO  c.g.newtours.utility.TestListener - ------Test context started------- for Login and Registration Tests
+2024-06-13 22:38:25.849 [main] INFO  c.g.newtours.utility.TestListener - --------Test started----------for login
+2024-06-13 22:38:27.199 [main] INFO  com.guru99.newtours.tests.Register - [Login Successfull]
+2024-06-13 22:38:27.199 [main] INFO  com.guru99.newtours.tests.TestBase - [Login test executed with username: admin and password: admin]
+2024-06-13 22:38:27.205 [main] INFO  c.g.newtours.utility.TestListener - -------Test passed---------for login
+2024-06-13 22:38:27.269 [main] INFO  c.g.newtours.utility.TestListener - --------Test started----------for register
+2024-06-13 22:38:28.100 [main] INFO  com.guru99.newtours.tests.Register - [Clicked on REGISTER link]
+2024-06-13 22:38:28.575 [main] INFO  com.guru99.newtours.tests.Register - [Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com]
+2024-06-13 22:38:28.891 [main] INFO  com.guru99.newtours.tests.Register - [Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA]
+2024-06-13 22:38:29.057 [main] INFO  com.guru99.newtours.tests.Register - [Entered User info]
+2024-06-13 22:38:30.125 [main] INFO  com.guru99.newtours.tests.Register - [Registration Submitted]
+2024-06-13 22:38:30.125 [main] INFO  com.guru99.newtours.tests.TestBase - [Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234]
+2024-06-13 22:38:30.127 [main] INFO  c.g.newtours.utility.TestListener - -------Test passed---------for register
+2024-06-13 22:38:30.150 [main] INFO  c.g.newtours.utility.TestListener - ---------Test context finished-----------for Login and Registration Tests
+2024-06-13 22:38:30.255 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser closed]
+2024-06-13 22:39:53.143 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser opened and navigated to demo.guru99.com]
+2024-06-13 22:39:53.153 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests
+2024-06-13 22:39:53.725 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-13 22:39:56.748 [main] INFO  com.guru99.newtours.tests.Register - [Login Successfull]
+2024-06-13 22:39:56.749 [main] INFO  com.guru99.newtours.tests.TestBase - [Login test executed with username: admin and password: admin]
+2024-06-13 22:39:56.763 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for login
+2024-06-13 22:39:56.817 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-13 22:39:59.922 [main] INFO  com.guru99.newtours.tests.Register - [Clicked on REGISTER link]
+2024-06-13 22:40:00.220 [main] INFO  com.guru99.newtours.tests.Register - [Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com]
+2024-06-13 22:40:00.546 [main] INFO  com.guru99.newtours.tests.Register - [Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA]
+2024-06-13 22:40:00.706 [main] INFO  com.guru99.newtours.tests.Register - [Entered User info]
+2024-06-13 22:40:02.831 [main] INFO  com.guru99.newtours.tests.Register - [Registration Submitted]
+2024-06-13 22:40:02.831 [main] INFO  com.guru99.newtours.tests.TestBase - [Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234]
+2024-06-13 22:40:02.833 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for register
+2024-06-13 22:40:02.850 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests
+2024-06-13 22:40:02.972 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser closed]
+2024-06-13 22:42:17.710 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser opened and navigated to demo.guru99.com]
+2024-06-13 22:42:17.718 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests
+2024-06-13 22:42:18.263 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-13 22:42:21.475 [main] INFO  com.guru99.newtours.tests.Register - [Login Successfull]
+2024-06-13 22:42:21.476 [main] INFO  com.guru99.newtours.tests.TestBase - [Login test executed with username: admin and password: admin]
+2024-06-13 22:42:21.487 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for login
+2024-06-13 22:42:21.539 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-13 22:42:24.046 [main] INFO  com.guru99.newtours.tests.Register - [Clicked on REGISTER link]
+2024-06-13 22:42:24.351 [main] INFO  com.guru99.newtours.tests.Register - [Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com]
+2024-06-13 22:42:24.684 [main] INFO  com.guru99.newtours.tests.Register - [Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA]
+2024-06-13 22:42:24.842 [main] INFO  com.guru99.newtours.tests.Register - [Entered User info]
+2024-06-13 22:42:27.045 [main] INFO  com.guru99.newtours.tests.Register - [Registration Submitted]
+2024-06-13 22:42:27.045 [main] INFO  com.guru99.newtours.tests.TestBase - [Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234]
+2024-06-13 22:42:27.048 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for register
+2024-06-13 22:42:27.074 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests
+2024-06-13 22:42:27.199 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser closed]
+2024-06-13 22:52:48.907 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser opened and navigated to demo.guru99.com]
+2024-06-13 22:52:48.914 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests
+2024-06-13 22:52:49.482 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-13 22:52:52.034 [main] INFO  com.guru99.newtours.tests.Register - [Login Successfull]
+2024-06-13 22:52:52.034 [main] INFO  com.guru99.newtours.tests.TestBase - [Login test executed with username: admin and password: admin]
+2024-06-13 22:52:52.039 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for login
+2024-06-13 22:52:52.040 [main] ERROR c.g.newtours.utility.TestListener - WebDriver instance is null. Cannot capture screenshot.
+2024-06-13 22:52:52.093 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-13 22:52:54.313 [main] INFO  com.guru99.newtours.tests.Register - [Clicked on REGISTER link]
+2024-06-13 22:52:54.629 [main] INFO  com.guru99.newtours.tests.Register - [Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com]
+2024-06-13 22:52:54.940 [main] INFO  com.guru99.newtours.tests.Register - [Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA]
+2024-06-13 22:52:55.101 [main] INFO  com.guru99.newtours.tests.Register - [Entered User info]
+2024-06-13 22:52:56.874 [main] INFO  com.guru99.newtours.tests.Register - [Registration Submitted]
+2024-06-13 22:52:56.875 [main] INFO  com.guru99.newtours.tests.TestBase - [Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234]
+2024-06-13 22:52:56.878 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for register
+2024-06-13 22:52:56.878 [main] ERROR c.g.newtours.utility.TestListener - WebDriver instance is null. Cannot capture screenshot.
+2024-06-13 22:52:56.900 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests
+2024-06-13 22:52:57.006 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser closed]
+2024-06-13 23:21:22.748 [main] INFO  c.g.newtours.utility.TestListener - WebDriver instance set successfully.
+2024-06-13 23:21:26.599 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser opened and navigated to demo.guru99.com]
+2024-06-13 23:21:26.604 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests
+2024-06-13 23:21:27.297 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-13 23:21:28.757 [main] INFO  com.guru99.newtours.tests.Register - [Login Successfull]
+2024-06-13 23:21:28.758 [main] INFO  com.guru99.newtours.tests.TestBase - [Login test executed with username: admin and password: admin]
+2024-06-13 23:21:28.762 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for login
+2024-06-13 23:21:28.995 [main] INFO  c.g.newtours.utility.TestListener - Screenshot saved: /home/nirmala/JavaProj/newtours-test-application/screenshots/login_20240613232128.png
+2024-06-13 23:21:29.052 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-13 23:21:29.766 [main] INFO  com.guru99.newtours.tests.Register - [Clicked on REGISTER link]
+2024-06-13 23:21:30.175 [main] INFO  com.guru99.newtours.tests.Register - [Entered contact info: nirmala, c, 1234567890, nirmala11@gmail.com]
+2024-06-13 23:21:30.509 [main] INFO  com.guru99.newtours.tests.Register - [Entered mailing info: sreevalsam omkara, ottappalam, kerala, 2132313, INDIA]
+2024-06-13 23:21:30.668 [main] INFO  com.guru99.newtours.tests.Register - [Entered User info]
+2024-06-13 23:21:31.820 [main] INFO  com.guru99.newtours.tests.Register - [Registration Submitted]
+2024-06-13 23:21:31.821 [main] INFO  com.guru99.newtours.tests.TestBase - [Registration test executed with data: nirmala, c, 1234567890, nirmala11@gmail.com, sreevalsam omkara, ottappalam, kerala, 2132313, nirmala, Test1234, Test1234]
+2024-06-13 23:21:31.826 [main] INFO  c.g.newtours.utility.TestListener - (3)-------Test passed---------for register
+2024-06-13 23:21:32.106 [main] INFO  c.g.newtours.utility.TestListener - Screenshot saved: /home/nirmala/JavaProj/newtours-test-application/screenshots/register_20240613232132.png
+2024-06-13 23:21:32.122 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests
+2024-06-13 23:21:32.251 [main] INFO  com.guru99.newtours.tests.TestBase - [Browser closed]
+2024-06-14 10:18:45.543 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-chrome
+2024-06-14 10:18:46.052 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:18:46.055 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:18:46.106 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:18:46.108 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:18:46.128 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-chrome
+2024-06-14 10:18:46.129 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-Firefox
+2024-06-14 10:18:46.157 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:18:46.158 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:18:46.187 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:18:46.189 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:18:46.194 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-Firefox
+2024-06-14 10:18:46.195 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-edge
+2024-06-14 10:18:46.222 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:18:46.224 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:18:46.260 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:18:46.261 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:18:46.270 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-edge
+2024-06-14 10:22:05.400 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-chrome
+2024-06-14 10:22:05.908 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:22:05.911 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:22:05.961 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:22:05.963 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:22:05.980 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-chrome
+2024-06-14 10:22:05.981 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-Firefox
+2024-06-14 10:22:06.011 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:22:06.012 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:22:06.042 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:22:06.044 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:22:06.049 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-Firefox
+2024-06-14 10:22:06.050 [main] INFO  c.g.newtours.utility.TestListener - (1)------Test context started------- for Login and Registration Tests-edge
+2024-06-14 10:22:06.078 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for login
+2024-06-14 10:22:06.080 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for login
+2024-06-14 10:22:06.105 [main] INFO  c.g.newtours.utility.TestListener - (2)--------Test started----------for register
+2024-06-14 10:22:06.106 [main] WARN  c.g.newtours.utility.TestListener - (*)(*)(*)----------Test skipped------------for register
+2024-06-14 10:22:06.112 [main] INFO  c.g.newtours.utility.TestListener - (4)---------Test context finished-----------for Login and Registration Tests-edge
