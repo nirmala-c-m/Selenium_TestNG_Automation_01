@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Guru99 Test Suite]" guice-stage="DEVELOPMENT">
-  <listeners>
-    <listener class-name="com.guru99.newtours.utility.TestListener"/>
-  </listeners>
-  <test thread-count="5" name="Login and Registration Tests-chrome(failed)">
-    <parameter name="browser" value="chrome"/>
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="com.guru99.newtours.tests.TestBase">
         <methods>
-          <include name="register" invocation-numbers="0"/>
-          <include name="login" invocation-numbers="0"/>
+          <include name="register" invocation-numbers="0 0 0 0"/>
+          <include name="login" invocation-numbers="0 0 0 0"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.guru99.newtours.tests.TestBase -->
     </classes>
-  </test> <!-- Login and Registration Tests-chrome(failed) -->
-  <test thread-count="5" name="Login and Registration Tests-Firefox(failed)">
-    <parameter name="browser" value="firefox"/>
-    <classes>
-      <class name="com.guru99.newtours.tests.TestBase">
-        <methods>
-          <include name="register" invocation-numbers="0"/>
-          <include name="login" invocation-numbers="0"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.guru99.newtours.tests.TestBase -->
-    </classes>
-  </test> <!-- Login and Registration Tests-Firefox(failed) -->
-</suite> <!-- Failed suite [Guru99 Test Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
