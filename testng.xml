@@ -4,7 +4,7 @@
 	<listeners>
 		<listener
 			class-name="com.guru99.newtours.utility.TestListener" />
-			<listener class-name="YourPackage.RetryAnalyzer" />
+			<listener class-name="com.guru99.newtours.utility.RetryAnalyzer" />
 	</listeners>
 	<test name="Login and Registration Tests-chrome">
 		<parameter name="browser" value="chrome" />
